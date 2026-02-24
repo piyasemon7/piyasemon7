@@ -1,88 +1,73 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Piyas+Emon;Data+Analyst;Python+%7C+SQL+%7C+Power+BI+Expert;Turning+Data+into+Decisions" alt="Typing SVG" />
-</div>
+# Hi, I'm Piyas Emon 👋
 
----
+### Data Analyst | SQL • Python • Tableau • Power BI | Open to Remote Opportunities
 
-## 👨‍💻 About Me
-
-I'm a **Data Analyst** specializing in transforming complex datasets into actionable business insights.
-
-- 🔭 Currently working on: **E-commerce analytics & forecasting models**
-- 🌱 Learning: **Advanced machine learning & cloud platforms**
-- 💼 Open to: **Remote Data Analyst opportunities**
-- 📊 Expertise: **Python, SQL, Power BI, Tableau**
-- 📫 Reach me: **piyasemon7@gmail.com**
-- 🌐 Portfolio: **[Tableau Public](https://public.tableau.com/app/profile/piyas.emon)** | **[Blog](https://piyasemon07.blogspot.com)**
+I turn messy data into clear business decisions. I specialize in building interactive dashboards and performing data-driven analysis to help businesses understand their performance.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming & Analysis
+**Programming & Analysis**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Data Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+**Data Visualization**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Tools & Technologies**
+
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 📊 Featured Projects
 
-### 🛒 [E-commerce Sales Analytics](https://github.com/piyasemon7/US-E-commerce-Strategic-Sales-Analysis)
-Analyzed 100K+ transactions | Customer segmentation (RFM) | Revenue optimization insights
-- **Tech:** Python, Pandas, MySQL, Power BI
-- **Impact:** Identified 65% revenue from top 20% customers
+### 🛒 [BD E-commerce Sales Analysis](https://github.com/piyasemon7/Ecommerce-Sales-Analytics)
+- Analyzed e-commerce sales data across 8 regions of Bangladesh
+- Performed customer segmentation and regional performance analysis using Python and SQL
+- Built interactive dashboard in Tableau and Power BI
+- **Tech:** Python, Pandas, MySQL, Tableau, Power BI
 
-### 🍴 Restaurant Sales Forecasting
-Built predictive model with 89% accuracy | Inventory optimization
-- **Tech:** Python, Scikit-learn, Tableau
-- **Impact:** 15-20% potential cost savings
+### ☕ [Restaurant Sales Analysis](https://github.com/piyasemon7/Hot-Coffee-Restaurant-Sales-Analysis-2025)
+- Analyzed restaurant transaction data to identify best-selling items and monthly revenue trends
+- Created visualizations showing peak sales periods and category performance
+- **Tech:** Python, Pandas, Matplotlib, MySQL
 
-### 🏪 Retail Performance Dashboard
-Real-time analytics | 438K sales records | Interactive visualizations
-- **Tech:** Power BI, DAX, MySQL
-- **Impact:** 95% reduction in reporting time
+### 🌐 [US E-commerce Strategic Sales Analysis](https://github.com/piyasemon7/US-E-commerce-Strategic-Sales-Analysis)
+- Analyzed 100,000+ sales records from US e-commerce dataset
+- Identified top revenue-driving cities and product categories
+- **Tech:** Python, Pandas, Power BI
 
 ---
 
-## 📈 GitHub Stats
+## 📈 What I Can Do
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyasemon7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyasemon7&theme=tokyonight" alt="GitHub Streak" />
-</div>
+- ✅ Clean and transform raw datasets using Python and Excel
+- ✅ Write SQL queries for data extraction and business reporting
+- ✅ Build interactive dashboards using Tableau and Power BI
+- ✅ Perform customer segmentation and sales trend analysis
+- ✅ Create end-to-end data analysis projects from raw data to visual insights
 
 ---
 
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyas-emon-105508399)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/piyas.emon)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyasemon7@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://piyasemon07.blogspot.com)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/piyas.emon/vizzes)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyasemon7@gmail.com)
+[![Blog](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://piyasemon07.blogspot.com)
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=piyasemon7&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-
-<div align="center">
-  <i>💼 Open to remote Data Analyst opportunities | 📊 Let's turn data into decisions!</i>
-</div>
-```
+📌 **Currently open to remote Data Analyst and Business Analyst opportunities.**  
+💬 Feel free to reach out if you'd like to collaborate or discuss data!
