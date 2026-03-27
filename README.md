@@ -32,6 +32,12 @@ I turn messy data into clear business decisions. I specialize in building intera
 
 ## 📊 Featured Projects
 
+### 🛒 [E-Commerce Performance & Customer Behavior Analysis](https://github.com/piyasemon7/ecommerce-data-analysis)
+- Analyzed 10,000 orders across 5 regions using MySQL, Python & Tableau
+- Built correlation matrix, customer segmentation & outlier detection
+- Delivered interactive Tableau dashboard + full business report
+- **Tech:** Python, Pandas, MySQL, Tableau, Power BI
+
 ### 🛒 [BD E-commerce Sales Analysis](https://github.com/piyasemon7/Ecommerce-Sales-Analytics)
 - Analyzed e-commerce sales data across 8 regions of Bangladesh
 - Performed customer segmentation and regional performance analysis using Python and SQL
