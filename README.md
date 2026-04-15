@@ -32,6 +32,12 @@ I turn messy data into clear business decisions. I specialize in building intera
 
 ## 📊 Featured Projects
 
+### 🛒 **[ShopSmart USA — Customer & Orders Data Analysis](https://github.com/piyasemon7/shopsmart-usa-analysis)**
+- Analyzed **50,000 orders** across all 50 U.S. states using SQL, Python & Tableau
+- Built RFM segmentation, churn prediction model (~80% accuracy) & revenue forecasting
+- Delivered 4-page interactive Tableau dashboard + full business report with 10 recommendations
+- Tech: Python, Pandas, SQL, Tableau, Scikit-learn, MS Word
+
 ### 🛒 [E-Commerce Performance & Customer Behavior Analysis](https://github.com/piyasemon7/ecommerce-data-analysis)
 - Analyzed 10,000 orders across 5 regions using MySQL, Python & Tableau
 - Built correlation matrix, customer segmentation & outlier detection
